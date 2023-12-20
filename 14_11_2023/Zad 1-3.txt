@@ -1,0 +1,25 @@
+
+Zad 1
+Strict (nie wolno w niej używać znaczników wycofanych, a bedących standardem w poprzednich wersjach języka HTML)
+Transitional oznaczało, że jest to przejściowa wersja, dopuszczająca stosowanie niektórych wycofanych znaczników z wersji wcześniejszych.
+Wersję Frameset stosowano do stron z ramkami. Pełna lista możliwych deklaracji typu dokumentu (DTD) znajduje sie na stronach W3C Recommended list of DTDs
+
+
+Zad 2
+<!DOCTYPE html>
+<html lang ="pl">
+<head> 
+<title> Moja strona </title> 
+<meta charset = UTF-8> 
+<link rel ="stylesheet" type =" text/css " href ="../styl_glowna_5.css">
+</head>
+<body>
+To jest moja strona internetowa
+</body>
+</html>
+
+
+Zad 3
+1 - html
+2 - Przykład do zadania
+3 - UTF-8

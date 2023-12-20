@@ -1,0 +1,94 @@
+Karta pracy 1
+
+	Zad 1
+	Element		Zamiennik
+
+	APPLET		OBJECT
+	BASEFONT	CSS: color, font-family, font-size
+	CENTER		CSS: text-align
+	DIR		UL
+	FONT		CSS: color, font-family, font-size
+	ISINDEX		INPUT
+	MENU		UL
+	S		CSS: text-decoration
+	STRIKE		CSS: text-decoration
+	U		CSS: text-decoration
+
+	Zad 2
+	– Wersja 5 upraszcza zapis znaczników językowych (obecnie wystarczy zapis: <meta charset=”UTF-8″ />, 
+	  wcześniejszy zapis wyglądał następująco: <meta http-equiv=”content-type” content=”text/html;charset=UTF-8″ />)
+	– Zniesiono zasadę obowiązkowego zamykania znaczników i pustych komend.
+	
+	Zad 3
+	HTML 4.0 - https://www.w3.org/TR/1998/REC-html40-19980424/
+	HTML 4.01 - http://www.w3.org/TR/html4/
+	HTML 5.0 - https://www.w3.org/TR/2011/WD-html5-20110405/index.html
+	
+========================================================================================================================================
+Zad 1
+Witryna internetowa: 
+Witryna internetowa to zbiór powiązanych ze sobą stron internetowych, które tworzą spójną całość. Jest to miejsce w sieci,
+do którego użytkownicy mogą się przekierować za pomocą unikalnego adresu internetowego, zwyczajowo znanego jako URL.
+URL -https://www.google.com/
+
+Portal internetowy:
+witryna internetowa zawierająca usługi stanowiące „bramę” do Internetu. Serwis informacyjny zazwyczaj poszerzony jest o różnorodne funkcje internetowe. 
+Portale często oferują darmowe usługi, np. pocztę elektroniczną, czy hosting. Portal udostępnia informacje będące przedmiotem zainteresowania szerokiego grona odbiorców. 
+Jako przykładową treść można podać: dział aktualnych wiadomości, prognoza pogody, katalog stron WWW, czat, forum dyskusyjne.
+URL - https://www.youtube.com/
+
+Sklep internetowy:
+Sklep internetowy to rodzaj serwisu z katalogiem produktów lub usług, który umożliwia prowadzenie sprzedaży oraz dokonywanie zakupów za pośrednictwem Internetu. 
+Proces zakupowy realizowany jest najczęściej poprzez dodanie wybranych pozycji do koszyka oraz złożenie zamówienia online.
+URL - https://www.x-kom.pl/
+
+Blog tekstowy: 
+Blog tekstowy odzaj internetowego dziennika, prowadzonego przez regularne publikowanie wpisów tematycznych. Blogowanie przybiera rozmaite formy, 
+począwszy od blogów o charakterze osobistym, poprzez blogi branżowe, na których pojawią się specjalistyczne, w pełni merytoryczne treści.
+URL - https://kuchniaagaty.pl/
+
+Wideoblog:
+Rodzaj bloga internetowego, którego zasadniczą treść stanowią pliki filmowe publikowane przez autora w kolejności chronologicznej. 
+Pliki udostępniane są do odtwarzania w technologii video-streamingu lub do pobrania na komputer użytkownika
+URL - https://carfactor.pl/audi-tt-1-8-turbo/
+
+Zad 2
+Jest to portal internetowy, ponieważ udostępnia informacje skierowane do odbiorców danej dziedziny.
+
+Zad 3
+1 - błędna
+2 - błędna
+3 - błędna
+4 - poprawna
+5 - poprawna 
+
+====================================================================================================================================================
+
+Test 1
+
+	Zad 1
+	Odp. - A
+	
+	Zad 2
+	Odp. - B
+
+	Zad 3
+	Odp. - C
+	
+	Zad 4 
+	Odp. - B
+
+	Zad 5
+	Odp. - A
+
+
+Zadanie egzaminacyjne
+
+
+
+github - hostingowy serwis internetowy przeznaczony do projektów programistycznych wykorzystujących system kontroli wersji 
+
+visual studio code - Darmowy edytor kodu źródłowego z kolorowaniem składni dla wielu języków
+
+chatgpt - AI które pomaga w tworzeniu różnych kodów
+
