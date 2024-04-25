@@ -1,0 +1,7 @@
+HTML 4.01
+bgsound był tagiem w HTML 4, który umożliwiał odtwarzanie dźwięku w tle strony internetowej w przeglądarce Internet Explorer.
+Nie był obsługiwany przez inne przeglądarki. w Firefoxie nie działał.
+
+HTML 5
+W html 5 powstal znacznik <audio>,
+który umożliwia odtwarzanie dźwięku na stronach internetowych i jest obsługiwany przez wszystkie współczesne przeglądarki.
