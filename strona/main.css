@@ -1,0 +1,48 @@
+body {
+   font-family: Verdana, Geneva, Tahoma, sans-serif; 
+   background: linear-gradient(to bottom, #005a51, #FFFFFF); 
+   background-repeat: no-repeat;
+}
+
+.nav a {
+    padding: 10px 15px;
+    margin: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+}
+
+nav a:visited {
+    color:white;
+}
+
+header {
+    background: #723b1677;
+    padding: 30px;
+    text-align: center;
+    font-size: 15px;
+    font-size: pointer;
+    border-radius: 20px 20px 0px 0px;
+    
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    color: white;
+    background: #723b16;
+}
+
+th, td{
+border: 1px solid #944d1e;
+padding: 10px;
+}
+
+main{
+    background: #da8044;
+    padding: 20px;
+    text-align: center;
+    font-size: 15px;
+}
